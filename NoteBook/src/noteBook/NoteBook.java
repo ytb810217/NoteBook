@@ -56,6 +56,10 @@ public class NoteBook {
         k.add("123");
         k.add("456");
         k.add("123");
+        k.add("123");
+        k.add("123");
+        k.add("456");
+        k.add("123");
         System.out.println(k);
 //        for(String d:k)
 //        {
